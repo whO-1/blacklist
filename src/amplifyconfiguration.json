@@ -1,0 +1,10 @@
+{
+  "aws_project_region": "eu-central-1",
+  "aws_cloud_logic_custom": [
+    {
+      "name": "reviewStorage",
+      "endpoint": "https://i7542074kg.execute-api.eu-central-1.amazonaws.com/dev",
+      "region": "eu-central-1"
+    }
+  ]
+}
